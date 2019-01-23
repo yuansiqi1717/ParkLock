@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "E:\\AsWorkSpace\\ParkingLock\\app\\build\\intermediates\\res\\merged\\debug\\raw\\districts.xml",
+        "source": "E:\\AsWorkSpace\\ParkingLock\\app\\src\\main\\res\\raw\\districts.xml"
+    },
+    {
+        "merged": "E:\\AsWorkSpace\\ParkingLock\\app\\build\\intermediates\\res\\merged\\debug\\raw\\beep.ogg",
+        "source": "E:\\AsWorkSpace\\ParkingLock\\app\\src\\main\\res\\raw\\beep.ogg"
+    },
+    {
+        "merged": "E:\\AsWorkSpace\\ParkingLock\\app\\build\\intermediates\\res\\merged\\debug\\raw\\bells.mp3",
+        "source": "E:\\AsWorkSpace\\ParkingLock\\app\\src\\main\\res\\raw\\bells.mp3"
+    },
+    {
+        "merged": "E:\\AsWorkSpace\\ParkingLock\\app\\build\\intermediates\\res\\merged\\debug\\raw\\provinces.xml",
+        "source": "E:\\AsWorkSpace\\ParkingLock\\app\\src\\main\\res\\raw\\provinces.xml"
+    },
+    {
+        "merged": "E:\\AsWorkSpace\\ParkingLock\\app\\build\\intermediates\\res\\merged\\debug\\raw\\cities.xml",
+        "source": "E:\\AsWorkSpace\\ParkingLock\\app\\src\\main\\res\\raw\\cities.xml"
+    }
+]
